@@ -2,8 +2,18 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: white;
 }
 
 main p {
     font-family: font92726;
+}
+
+.title {
+    font-family: font92671;
+}
+
+.body-text{
+    font-family: font92671;
+    
 }
